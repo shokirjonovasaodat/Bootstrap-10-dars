@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(202, 201, 201, 0.601);
+}
+.a{
+    height: 35px;
+}
+.d{
+    height: 45px;
+}
+.l{
+    height: 50px;
+}
+.s{
+    background-color: lightgray;
+}
+.b{
+    height: 120px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.c{
+    height: 80px;
+}
+.t{
+    width: 490px;
+    height: 80px;
+    margin-left: 570px;
+    margin-top: 40px;
+}
+.bu{
+    width: 120px;
+    height: 40px;
+    background-color: blue;
+    margin-left: 500px;
+}
